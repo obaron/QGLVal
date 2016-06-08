@@ -1,0 +1,5 @@
+<use name="ttDM/TopTagResolved"/>
+<use name="root"/>
+<use name="roottmva"/>
+<flags CXXFLAGS="-g -Wall"/>
+<bin file="runTaggerDemo.cc" name="runTaggerDemo"></bin>
